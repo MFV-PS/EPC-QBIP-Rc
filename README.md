@@ -1,6 +1,6 @@
 # EPC-QBIP-Rc
 
-Critical radius (R_c) determination in porous media using the Euler-Poincaré Characteristic (EPC) and Queue-Based Invasion Percolation (QBIP).
+Critical radius ($R_c$) determination in porous media using the Euler-Poincaré Characteristic (EPC) and Queue-Based Invasion Percolation (QBIP).
 
 This repository accompanies the manuscript:
 
