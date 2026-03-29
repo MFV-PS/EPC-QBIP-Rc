@@ -94,7 +94,7 @@ Implements the Euler-Poincaré Characteristic method for $R_c$ determination via
 
 ### Outputs
 
-- Connectivity function #χ(r)$ with zero-crossing and derivative $R_c$ annotated
+- Connectivity function $χ(r)$ with zero-crossing and derivative $R_c$ annotated
 - 3D visualization of pore structure evolution during morphological opening
 - Animated sequences (optional, computationally intensive for large volumes)
 
