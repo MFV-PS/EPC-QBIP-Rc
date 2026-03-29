@@ -161,17 +161,7 @@ results = main(medium, voxel_size_um=0.05, n_points=30)
 ## Citation
 
 Manuscript under review. Citation details will be updated upon publication.
-If you use this code, please cite:
 
-```bibtex
-@article{FrancoVillegas2025_EPC_QBIP,
-  author  = {Franco-Villegas, Moisés and Nieto-Rivero, Carlos J.T. and Morales-Chávez, Sinai and Valdiviezo-Mijangos, Oscar C. and Coconi-Morales, Enrique and Fuentes-Cruz, Gorgonio},
-  title   = {Euler-Poincaré Characteristic and Invasion Percolation for Critical Radius Determination: A Systematic Comparison in Synthetic Porous Structures},
-  journal = {Geofísica Internacional},
-  year    = {2025},
-  note    = {In review}
-}
-```
 
 ---
 
