@@ -160,6 +160,7 @@ results = main(medium, voxel_size_um=0.05, n_points=30)
 
 ## Citation
 
+Manuscript under review. Citation details will be updated upon publication.
 If you use this code, please cite:
 
 ```bibtex
